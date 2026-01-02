@@ -1,0 +1,5 @@
+root = true
+
+[*.kt]
+indent_size = tab
+tab_width = 2
